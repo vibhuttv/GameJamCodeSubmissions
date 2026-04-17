@@ -1,0 +1,34 @@
+# Unity-generated folders — never commit these
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Never commit Unity auto-generated plugins / IDE caches
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+.consulo/
+.vs/
+.gradle/
+.idea/
+.vsconfig
+
+# Unity OS metadata
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Local build artefacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# OS junk
+.DS_Store
+Thumbs.db

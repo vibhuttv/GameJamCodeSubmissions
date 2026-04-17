@@ -1,0 +1,37 @@
+# Root-level ignore — applies across all submissions (Unity or otherwise).
+# Each submission may contain its own Unity project; these folders are
+# regenerated on editor open and must never be committed.
+
+# Unity auto-generated
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+**/Assets/AssetStoreTools*
+**/Assets/Plugins/Editor/JetBrains*
+
+# IDE / editor caches
+.vs/
+.vsconfig
+.idea/
+.gradle/
+.consulo/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Binary build artefacts that should live in Releases, not git
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+*.zip
+*.7z
+*.tar.gz
