@@ -13,8 +13,14 @@ Participant 1
 
 ### 🧠 Theme
 Loops
+Ssushant Singh Chauhan
+
+### 🧠 Theme
+Stack (with a dash of Backtracking)
 
 ### 🔗 Itch.io Link
+[Play the Game](https://sk555.itch.io/slidecrate)
+"Only play this game in FULL SCREEN"
 [Play the Game](https://xyz)
 
 ---
@@ -52,3 +58,31 @@ flash FX. 3 levels (Forest → Water → Ice Cave boss finale).
 | Left-click | Jump (double for air jump) |
 | Right-click | Slide |
 | Hold **Z** + mouse X | Rewind ±2s / fast-forward +0.8s |
+### Submission — WILL.EXE
+### 👤 Name
+Sudharsan (Roll 10077)
+
+### 🧠 Theme
+Inheritance — boot a dead grandfather's cursed Windows-98 PC, solve four passwords hidden in his cringe boomer desktop, assemble the fragments of his will before the drive corrupts, and inherit everything. Including his enemies.
+
+### 🔗 Itch.io Link
+[Play WILL.EXE](https://bug-finderr.itch.io/will-exe)
+
+### 🗂️ Project Zip
+[`WillExe.zip`](WillExe.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+### Submission — Bone and Blade
+### 👤 Name
+Satish Rathod
+
+### 🧠 Theme
+Classes — three character classes (Knight / Wizard / Assassin) you swap between mid-fight, each a polymorphic `ClassAttackBase` with its own attack and damage type.
+
+### 🔗 Itch.io Link
+[Play Bone and Blade](https://satish-rathod.itch.io/bone-and-blade)
+
+### 📦 Source Repo
+[github.com/satish-rathod/bone-and-blade](https://github.com/satish-rathod/bone-and-blade)
+
+### 🗂️ Project Zip
+[`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
